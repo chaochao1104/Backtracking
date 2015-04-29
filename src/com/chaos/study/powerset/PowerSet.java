@@ -8,6 +8,7 @@ import java.util.List;
 
 /**
  * <a href="http://zh.wikipedia.org/zh-cn/%E5%86%AA%E9%9B%86">Wiki - Power Set</a>
+ * <a href="http://www.csie.ntnu.edu.tw/~u91029/Backtracking.html#1">Reference</a>
  */
 public class PowerSet {
     //solution
